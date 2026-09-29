@@ -1,0 +1,10 @@
+{
+    "size": 84,
+    "speed": 2.0,
+    "behavior": "walk",
+    "walk_on_windows": true,
+    "gravity_enabled": true,
+    "gravity": 0.5,
+    "max_fall_speed": 15.0,
+    "fly_speed": 3.0
+}
